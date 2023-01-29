@@ -1,11 +1,10 @@
 {
-  "OA_TENANT1": [
+  "name": [
     {
-      "id": 1,
-      "title": "hello"
+      "title": "API accessed through OA tenant1 app"
     }
   ],
   "profile": {
-    "name": "pbouquet"
+    "name": "read"
   }
 }
