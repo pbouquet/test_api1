@@ -1,9 +1,7 @@
 {
-  "name": [
-    {
+  "name": {
       "title": "API accessed through OA tenant1 app"
-    }
-  ],
+    },
   "profile": {
     "name": "read"
   }
